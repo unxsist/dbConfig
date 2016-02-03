@@ -27,7 +27,7 @@
         "classmap": [
             "src/migrations"
         ],
-        "psr-4": {
+        "psr-0": {
             "Terbium\\DbConfig\\": "src/"
         }
     },
